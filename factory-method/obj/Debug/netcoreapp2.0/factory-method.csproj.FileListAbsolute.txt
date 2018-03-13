@@ -1,0 +1,11 @@
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\factory-method\bin\Debug\netcoreapp2.0\factory-method.deps.json
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\factory-method\bin\Debug\netcoreapp2.0\factory-method.runtimeconfig.json
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\factory-method\bin\Debug\netcoreapp2.0\factory-method.runtimeconfig.dev.json
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\factory-method\bin\Debug\netcoreapp2.0\factory-method.dll
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\factory-method\bin\Debug\netcoreapp2.0\factory-method.pdb
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\factory-method\obj\Debug\netcoreapp2.0\factory-method.csprojResolveAssemblyReference.cache
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\factory-method\obj\Debug\netcoreapp2.0\factory-method.csproj.CoreCompileInputs.cache
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\factory-method\obj\Debug\netcoreapp2.0\factory-method.AssemblyInfoInputs.cache
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\factory-method\obj\Debug\netcoreapp2.0\factory-method.AssemblyInfo.cs
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\factory-method\obj\Debug\netcoreapp2.0\factory-method.dll
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\factory-method\obj\Debug\netcoreapp2.0\factory-method.pdb

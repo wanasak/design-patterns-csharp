@@ -1,0 +1,11 @@
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\abstract-factory\bin\Debug\netcoreapp2.0\abstract-factory.deps.json
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\abstract-factory\bin\Debug\netcoreapp2.0\abstract-factory.runtimeconfig.json
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\abstract-factory\bin\Debug\netcoreapp2.0\abstract-factory.runtimeconfig.dev.json
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\abstract-factory\bin\Debug\netcoreapp2.0\abstract-factory.dll
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\abstract-factory\bin\Debug\netcoreapp2.0\abstract-factory.pdb
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\abstract-factory\obj\Debug\netcoreapp2.0\abstract-factory.csprojResolveAssemblyReference.cache
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\abstract-factory\obj\Debug\netcoreapp2.0\abstract-factory.csproj.CoreCompileInputs.cache
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\abstract-factory\obj\Debug\netcoreapp2.0\abstract-factory.AssemblyInfoInputs.cache
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\abstract-factory\obj\Debug\netcoreapp2.0\abstract-factory.AssemblyInfo.cs
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\abstract-factory\obj\Debug\netcoreapp2.0\abstract-factory.dll
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\abstract-factory\obj\Debug\netcoreapp2.0\abstract-factory.pdb

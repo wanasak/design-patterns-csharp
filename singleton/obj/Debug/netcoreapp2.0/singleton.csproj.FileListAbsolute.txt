@@ -1,0 +1,11 @@
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\singleton\bin\Debug\netcoreapp2.0\singleton.deps.json
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\singleton\bin\Debug\netcoreapp2.0\singleton.runtimeconfig.json
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\singleton\bin\Debug\netcoreapp2.0\singleton.runtimeconfig.dev.json
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\singleton\bin\Debug\netcoreapp2.0\singleton.dll
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\singleton\bin\Debug\netcoreapp2.0\singleton.pdb
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\singleton\obj\Debug\netcoreapp2.0\singleton.csprojResolveAssemblyReference.cache
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\singleton\obj\Debug\netcoreapp2.0\singleton.csproj.CoreCompileInputs.cache
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\singleton\obj\Debug\netcoreapp2.0\singleton.AssemblyInfoInputs.cache
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\singleton\obj\Debug\netcoreapp2.0\singleton.AssemblyInfo.cs
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\singleton\obj\Debug\netcoreapp2.0\singleton.dll
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\singleton\obj\Debug\netcoreapp2.0\singleton.pdb

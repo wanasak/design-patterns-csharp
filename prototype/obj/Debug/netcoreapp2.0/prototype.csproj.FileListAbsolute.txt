@@ -1,0 +1,11 @@
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\prototype\bin\Debug\netcoreapp2.0\prototype.deps.json
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\prototype\bin\Debug\netcoreapp2.0\prototype.runtimeconfig.json
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\prototype\bin\Debug\netcoreapp2.0\prototype.runtimeconfig.dev.json
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\prototype\bin\Debug\netcoreapp2.0\prototype.dll
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\prototype\bin\Debug\netcoreapp2.0\prototype.pdb
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\prototype\obj\Debug\netcoreapp2.0\prototype.csprojResolveAssemblyReference.cache
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\prototype\obj\Debug\netcoreapp2.0\prototype.csproj.CoreCompileInputs.cache
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\prototype\obj\Debug\netcoreapp2.0\prototype.AssemblyInfoInputs.cache
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\prototype\obj\Debug\netcoreapp2.0\prototype.AssemblyInfo.cs
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\prototype\obj\Debug\netcoreapp2.0\prototype.dll
+C:\Users\MYCOS-PC\Documents\NET-CORE\design-patterns\prototype\obj\Debug\netcoreapp2.0\prototype.pdb
