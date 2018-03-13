@@ -1,4 +1,4 @@
-# design-patterns-csharp
+# Desing Patterns
 
 ### Creational Design Patterns
 - Singleton
